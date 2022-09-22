@@ -34,4 +34,4 @@ Managers can see the same view that HRs see, and even more to have all informati
 
 ![man2](https://user-images.githubusercontent.com/71104368/191738695-2fe1d657-3f77-41e2-b7a3-2a2592c7f48b.png)
 
-Usernames and password are stored in database that you have created in the beginning. Passwords are crypted by Base64. Bye
+Usernames and password are stored in database that you have created in the beginning. Passwords are crypted by bcrypt. Bye
